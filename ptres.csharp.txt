@@ -1,0 +1,47 @@
+1
+using system
+class program
+
+{
+   { static void main
+    
+     consolewriteline (n1, n2, n3, n4);
+     consolewriteline (media com peso das notas);
+     consolewriteline ("Media");
+     
+   }
+
+      if 
+     consolewriteline (media=7.0)
+     consolewriteline ("Aluno aprovado");
+     }
+     if 
+     consolewriteline (media>5.0)
+     consolewriteline ("Aluno reprovado");
+     
+     if 
+     consolewriteline(5.0 e 6.9);
+     consolewriteline ("Aluno em exame");
+     
+     else
+     consolewriteline ("Nota do exame = n")
+     
+}
+
+2
+using system
+class program
+
+   static void main
+   {
+       consolewriteline (vertebrado, invertebrado, ave, mamifero, inseto, anelideo, carnivoro, onivoro, herbivoro, hematofogo)
+       
+   }
+   consolewriteline ("Escolha")
+   if (vertebrado)
+   
+   consolewriteline (ave,mamifero)
+   
+   if (invertebrado)
+   
+   consolewriteline (inseto, anelideo)
